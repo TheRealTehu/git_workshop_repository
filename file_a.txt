@@ -1,3 +1,5 @@
 Mi az a git? - Verziókezelő rendszer.
 Mi a verziókezelő rendszer? - Követi és megjegyzi a fájlokon végbemenő változtatásokat.
 Előnyök: Több ember dolgozhat egy projecten. Izolált környezet -> branching. Visszaállás régi verzióra. Gyors.
+
+*.txt
