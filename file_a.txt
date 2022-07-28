@@ -3,3 +3,5 @@ Mi a verziókezelő rendszer? - Követi és megjegyzi a fájlokon végbemenő v�
 Előnyök: Több ember dolgozhat egy projecten. Izolált környezet -> branching. Visszaállás régi verzióra. Gyors.
 
 *.txt
+
+Modosítás
